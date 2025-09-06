@@ -1,0 +1,11 @@
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\bin\Release\Umbral.payload.exe.config
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\bin\Release\Umbral.payload.exe
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\bin\Release\Umbral.payload.pdb
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\obj\Release\Umbral.payload.csproj.AssemblyReference.cache
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\obj\Release\Umbral.payload.csproj.CoreCompileInputs.cache
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\obj\Release\Umbral.payload.exe
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\obj\Release\Umbral.payload.pdb
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\bin\Release\Newtonsoft.Json.dll
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\bin\Release\Newtonsoft.Json.xml
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\obj\Release\Umbral.payload.exe.config
+C:\Users\flonxi\Desktop\Umbral-Stealer-main\Umbral.payload\obj\Release\Umbral.p.08F7D6A6.Up2Date
